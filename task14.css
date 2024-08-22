@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+    background-color: aqua;
+    border: 2px;
+    padding-block-end: 10px;
+    
+}
+.b{
+    background-color: blueviolet;
+    width: 700px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.c{
+background-color: yellow;
+margin-top: 50px;
+width: 700px;
+display: inline-block;
+margin-left: 100px;
+margin-bottom: 100px;
+}
